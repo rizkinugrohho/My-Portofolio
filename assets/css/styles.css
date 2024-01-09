@@ -553,6 +553,8 @@ body.light-theme {
   gap: 1.5rem;
   padding-top: 1rem;
   display: flex;
+  justify-content: center;
+  column-gap: 2.5rem;
 }
 
 .services__card {
